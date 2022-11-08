@@ -1,4 +1,4 @@
-## Virtual Museum
+## Virtual Library
 #### VIRTUAL REALITY Course Project
 Uder supervision of Prof. Anupam Agarwaal
 <hr>
