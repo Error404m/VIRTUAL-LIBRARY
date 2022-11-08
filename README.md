@@ -20,7 +20,7 @@ Uder supervision of Prof. Anupam Agarwaal
     </li>
     <li><a href="#how-to-use">How to use</a></li>
     <ul>
-        <li><a href="#iiit-allahabad-virtual-museum-outside-look">LIBRARY outer look</a></li>
+        <li><a href="#iiit-allahabad-virtual-Library-outside-look">LIBRARY outer look</a></li>
         <li><a href="#interactions-of-artifacts-with-avtar">Interfaction with artifacts by Virtual Avtar</a></li>
       </ul>
      <li><a href="#demo-video">Demo Video</a></li>
