@@ -118,7 +118,7 @@ Now use keys for navigating the Avtar.
    
 ### IIIT Allahabad Virtual Museum outside look
 This is the view from outside of virtual museum .  Now navigate Avtar by pressing "D" or "right arrow key" for left turn , "A" or left arrow key for left turn. W or UP KEY for move forward, S or Down key for back movement, and space key for jump .
-<br><br> <img src="demo/1.png"  height="400" />
+<br><br> <img src="1.png"  height="400" />
 
 ### Interactions of Artifacts with Avtar
 Artifacts are set up minimum and maximum threshold values , whenever Avtar will come in range of minimum threshold value, It automatically starts speaking and vice versa when Avtar will be away from maximum threshold range ,then audio demonstartion will be stopped .
