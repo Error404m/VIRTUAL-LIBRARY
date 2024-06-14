@@ -122,14 +122,14 @@ This is the view from outside of virtual museum .  Now navigate Avtar by pressin
 
 ### Interactions of Artifacts with Avtar
 Artifacts are set up minimum and maximum threshold values , whenever Avtar will come in range of minimum threshold value, It automatically starts speaking and vice versa when Avtar will be away from maximum threshold range ,then audio demonstartion will be stopped .
-<br><br> <img src="demo/2.png"  height="400" />
+<br><br> <img src="2.png"  height="400" />
 <!-- <br> <img src="demo/3.png"  height="370" /> -->
 
 <!-- Usage -->
 <hr>
 
 ## Demo Video
-[![Watch the video](demo/4.png)](https://drive.google.com/file/d/1D_P6y_Q1rS1wJEiU-l4j0-WtrBpyqF4m/view?usp=sharing)
+[![Watch the video](4.png)](https://drive.google.com/file/d/1D_P6y_Q1rS1wJEiU-l4j0-WtrBpyqF4m/view?usp=sharing)
 
 <hr>
 
